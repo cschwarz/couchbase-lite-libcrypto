@@ -1,3 +1,6 @@
 [submodule "vendor/openssl"]
 	path = vendor/openssl
 	url = https://github.com/openssl/openssl.git
+[submodule "vendor/microsoft-openssl"]
+	path = vendor/microsoft-openssl
+	url = https://github.com/Microsoft/openssl.git
